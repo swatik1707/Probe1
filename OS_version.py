@@ -7,3 +7,4 @@ print(info)
 
 with open('os_info', 'w') as ff:
     ff.write(info)
+print('Hi')
